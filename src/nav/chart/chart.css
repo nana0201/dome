@@ -1,0 +1,28 @@
+.chart {
+    width: 80%;
+    height: 280px;
+    margin: 30% auto;
+    background: #ffff;
+    padding: 25px;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: column;
+    /* justify-items: center; */
+    text-align: center;
+}
+
+.chartbox {
+    overflow: hidden;
+}
+
+.chart p {
+    margin: 0px;
+    padding: 0;
+    line-height: 1.5em;
+}
+
+.chart .avatar {
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: 15px;
+}

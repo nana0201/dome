@@ -1,0 +1,29 @@
+.history .am-list-item img {
+    width: 80px;
+    height: 80px;
+    vertical-align: middle;
+}
+
+.history .am-list-item .am-list-line .am-list-extra {
+    font-weight: 700;
+    color: #f01;
+}
+
+.history .am-list-item .am-list-line .am-list-content {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1;
+}
+
+.history .am-list-item .am-list-line .am-list-brief {
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 1;
+}
+
+.history {
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+    background: #fff;
+}

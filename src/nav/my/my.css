@@ -1,0 +1,56 @@
+ .person-top {
+     background-color: #5fcafc;
+     height: 182px;
+     width: 100%;
+
+ }
+
+ .top-top {
+     padding-top: 10px;
+ }
+
+ .my .person-top .top-top .avatar {
+     width: 62px;
+     height: 62px;
+     border-radius: 50% !important;
+ }
+
+ .top-top .top-login {
+     color: #fff;
+     margin-left: -80px;
+ }
+
+ .top-top .shezhi-img {
+     width: 18px;
+     height: 18px;
+     margin-top: -34px;
+ }
+
+ .person-bottom {
+     display: flex;
+     flex-flow: row;
+     justify-content: space-around;
+     text-align: center;
+     padding: 0;
+     color: #fff;
+     font-size: 16px;
+ }
+
+ .person-list {
+     padding: 0;
+ }
+
+ .person-list-item {
+     display: flex;
+     flex-flow: row;
+     justify-content: space-between;
+     line-height: 3;
+     background: #fff;
+     margin: 2px 0;
+     padding: 0 5px;
+     box-sizing: border-box;
+ }
+
+ .my .kong {
+     margin-bottom: 10px;
+ }

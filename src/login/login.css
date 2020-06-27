@@ -1,0 +1,20 @@
+.logo {
+    width: 150px;
+    height: 150px;
+    margin: 50px auto;
+}
+
+.login {
+    background: #fff;
+    width: 100%;
+    height: 100%;
+    /* position: relative; */
+}
+
+.btmtext {
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 10px;
+    color: #D8DBE0;
+}

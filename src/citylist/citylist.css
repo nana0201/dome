@@ -1,0 +1,27 @@
+.citylist .rightbox {
+    position: fixed;
+    top: 50px;
+    height: auto;
+    width: 30px;
+    right: 0;
+    text-align: center;
+    line-height: 1.8;
+    background: #eee;
+}
+
+.citylist .navitem {
+    border-bottom: 1px #fff solid;
+}
+
+.citylist .city {
+    padding: 0 0 0 20px;
+    width: 80%;
+    box-sizing: border-box;
+}
+
+.citylist .city-title {}
+
+.citylist .city-list {
+    border-bottom: 1px solid #e4e1e1;
+    line-height: 1.5em;
+}
